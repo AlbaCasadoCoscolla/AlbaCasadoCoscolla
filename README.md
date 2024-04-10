@@ -9,5 +9,16 @@
 📫 You can reach out to me via email at albaacc01@gmail.com
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👋 ¡Hola! Soy @AlbaCasadoCoscolla.
+
+🌱 Desde hace unos años me interesa mucho la programación. Actualmente, estoy estudiando Javascript y Typecript, creando interfaces atractivas con React, explorando un poco de Nest y aventurándome en el ámbito del desarrollo de aplicaciones móviles con Flutter.
+
+💞️ ¿Interesade en unir fuerzas en un proyecto? ¡No dudes en contactarme!
+
+📫 Contacta onmigo por email: albaacc01@gmail.com
+
+
 
 
